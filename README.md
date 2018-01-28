@@ -1,7 +1,7 @@
 # F-ckAvgleAntiAdblock
 The intrusive ads on avgle.com (NSFW) are intolerable. Enough is enough.
 
-Avgle patch their site regularly, so as a result, this script is also patched regularly. Stay tuned.
+This script is patched regularly until avgle gets it.
 
 # Requirements
 ### Chrome

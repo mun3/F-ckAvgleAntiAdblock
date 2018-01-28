@@ -34,12 +34,12 @@ Avgle patch their site regularly, so as a result, this script is also patched re
 
 1. Open Violentmonkey's Dashboard
 
-2. Click the '+' icon to create a new script
+2. Click the "+" icon to create a new script
 
-3. Click 'Install from URL' and copy and paste the URL https://raw.githubusercontent.com/mun35/F-ckAvgleAntiAdblock/master/fu_antiadblock.js into the field
+3. Click "Install from URL" and copy and paste the URL https://raw.githubusercontent.com/mun35/F-ckAvgleAntiAdblock/master/fu_antiadblock.js into the field
 
-4. Click 'OK'
+4. Click "OK"
 
-5. Click 'Confirm installation' and 'Close'
+5. Click "Confirm installation" and then "Close"
 
 6. Done and enjoy!

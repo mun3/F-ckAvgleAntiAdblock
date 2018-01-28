@@ -18,7 +18,7 @@ This script is patched regularly until avgle gets it.
 
 # Instructions
 
-**Important:** Disable any other adblocker you may have. Use only uBlock Origin for ad blocking.
+**Important:** Disable any other adblocker you may have. Use **_only_** uBlock Origin for ad blocking.
 
 ## Tampermonkey (Chrome / Firefox / Safari) 
 _Recommended!_

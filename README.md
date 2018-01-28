@@ -18,7 +18,8 @@ This script is patched regularly until avgle gets it.
 
 # Instructions
 
-## Tampermonkey (Chrome / Firefox / Safari)
+## Tampermonkey (Chrome / Firefox / Safari) 
+_Recommended!_
 
 1. Open Tampermonkey's Dashboard
 

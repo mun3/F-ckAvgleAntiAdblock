@@ -1,5 +1,5 @@
 # F-ckAvgleAntiAdblock
-The intrusive ads on avgle.com (NSFW) are intolerable. It's time to let them know!
+The intrusive ads on avgle.com (NSFW) are intolerable. Enough is enough.
 
 Avgle patch their site regularly, so as a result, this script is also patched regularly. Stay tuned.
 

@@ -22,9 +22,10 @@ Avgle patch their site regularly, so as a result, this script is also patched re
 
 1. Open Tampermonkey's Dashboard
 
-2. Click "Utitilies"
+2. Click "Utilities"
 
-3. Copy the URL https://raw.githubusercontent.com/mun35/F-ckAvgleAntiAdblock/master/fu_antiadblock.js and paste it into the "URL" field
+3. Copy the URL https://raw.githubusercontent.com/mun3/F-ckAvgleAntiAdblock/master/fu_antiadblock.js and paste it into the "URL" field:
+![alt text](https://i.imgur.com/TyAFhT4.png)
 
 4. Click "Import" then click "Install"
 
@@ -36,7 +37,7 @@ Avgle patch their site regularly, so as a result, this script is also patched re
 
 2. Click the "+" icon to create a new script
 
-3. Click "Install from URL" and copy and paste the URL https://raw.githubusercontent.com/mun35/F-ckAvgleAntiAdblock/master/fu_antiadblock.js into the field
+3. Click "Install from URL" and copy and paste the URL https://raw.githubusercontent.com/mun3/F-ckAvgleAntiAdblock/master/fu_antiadblock.js into the field
 
 4. Click "OK"
 

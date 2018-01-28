@@ -6,15 +6,15 @@ This script is patched regularly until avgle gets it.
 # Requirements
 ### Chrome
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
-* [uBlock Origin](https://www.ublock.org/)
+* [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
 ### Firefox
 * [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) or [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
-* [uBlock Origin](https://www.ublock.org/)
+* [uBlock Origin](https://addons.mozilla.org/addon/ublock-origin/)
 
 ### Safari
 * [Tampermonkey](http://tampermonkey.net/?browser=safari)
-* [uBlock Origin](https://www.ublock.org/)
+* [uBlock Origin](https://github.com/el1t/uBlock-Safari/releases/download/1.14.14/uBlock0.safariextz)
 
 # Instructions
 

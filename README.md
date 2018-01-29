@@ -25,6 +25,8 @@ _Recommended!_
 
 1. Open Tampermonkey's Dashboard
 
+![alt text](https://i.imgur.com/nFyCFO5.png)
+
 2. Click "Utilities"
 
 3. Copy the URL https://raw.githubusercontent.com/mun3/F-ckAvgleAntiAdblock/master/fu_antiadblock.js and paste it into the "URL" field:

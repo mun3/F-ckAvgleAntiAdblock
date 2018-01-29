@@ -5,6 +5,7 @@
 // @include      *://*.avgle.com/*
 // @include      *://avgle.com/*
 // @grant        none
+// @namespace    http://github.com/mun3/F-ckAvgleAntiAdblock
 // @description Defeat the anti-adblock mechanisms on avgle.com (NSFW). Works with uBlock Origin.
 // ==/UserScript==
 

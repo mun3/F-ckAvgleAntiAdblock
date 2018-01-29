@@ -3,7 +3,7 @@ The intrusive ads on avgle.com (NSFW) are intolerable, especially on low-end dev
 
 This script is patched regularly until avgle gets it.
 
-**If you installed this script prior to Jan 29, please reinstall as below.**
+**If you installed this script prior to _Jan 29_, please reinstall as below.**
 
 # Requirements
 ### Chrome

@@ -7,11 +7,11 @@ This script is patched regularly until avgle gets it.
 
 # Requirements
 ### Chrome
-* [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
+* [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) _(Recommended!)_or [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
 ### Firefox
-* [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) or [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
+* [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) _(Recommended!)_ or [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
 * [uBlock Origin](https://addons.mozilla.org/addon/ublock-origin/)
 
 ### Safari
@@ -23,7 +23,6 @@ This script is patched regularly until avgle gets it.
 **Important:** Disable any other adblocker you may have. Use **_only_** uBlock Origin for ad blocking.
 
 ## Tampermonkey (Chrome / Firefox / Safari) 
-_Recommended!_
 
 1. Click https://github.com/mun3/F-ckAvgleAntiAdblock/raw/master/fu_antiadblock.user.js
 

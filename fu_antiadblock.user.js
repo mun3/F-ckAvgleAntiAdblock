@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         F*ck Avgle's Anti-Adblock
-// @version      0.11.9
+// @version      0.11.10
 // @author       mun
 // @include      *://*.avgle.com/*
 // @include      *://avgle.com/*

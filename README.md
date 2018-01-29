@@ -1,7 +1,7 @@
 # F-ckAvgleAntiAdblock
 The intrusive ads on avgle.com (NSFW) are intolerable, especially on low-end devices.
 
-This script is patched regularly until avgle gets it.
+This script is patched regularly until avgle gets it. Please share.
 
 **If you installed this script _before Jan 29_, please reinstall as below.**
 

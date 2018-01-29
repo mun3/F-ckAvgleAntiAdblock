@@ -24,16 +24,16 @@ This script is patched regularly until avgle gets it.
 
 ## Tampermonkey (Chrome / Firefox / Safari) 
 
-1. Click https://github.com/mun3/F-ckAvgleAntiAdblock/raw/master/fu_antiadblock.user.js
+1. Install Tampermonkey from above.
 
-2. Click 'Install'
+2. Click https://github.com/mun3/F-ckAvgleAntiAdblock/raw/master/fu_antiadblock.user.js
 
-3. Done and enjoy!
+3. Click 'Install' and enjoy!
 
 ## Violentmonkey (Chrome / Firefox)
 
-1. Click https://github.com/mun3/F-ckAvgleAntiAdblock/raw/master/fu_antiadblock.user.js
+1. Install Violentmonkey from above. 
 
-2. Click 'Confirm installation'
+2. Click https://github.com/mun3/F-ckAvgleAntiAdblock/raw/master/fu_antiadblock.user.js
 
-3. Done and enjoy!
+3. Click 'Confirm installation' and enjoy!

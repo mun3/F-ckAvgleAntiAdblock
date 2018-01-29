@@ -3,6 +3,8 @@ The intrusive ads on avgle.com (NSFW) are intolerable, especially on low-end dev
 
 This script is patched regularly until avgle gets it.
 
+**To those who installed prior to Jan 29** Filename is changed. Please reinstall if you installed on or Jan 29.
+
 # Requirements
 ### Chrome
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)

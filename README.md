@@ -7,22 +7,34 @@ This script is patched regularly until avgle gets it. Please share.
 
 # Requirements
 ### Chrome
-* [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) _(Recommended!)_ or [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+* [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) _(Recommended!)_ or [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 
 ### Firefox
-* [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) _(Recommended!)_ or [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
 * [uBlock Origin](https://addons.mozilla.org/addon/ublock-origin/)
+* [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) _(Recommended!)_ or [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
 
 ### Safari
-* [Tampermonkey](http://tampermonkey.net/?browser=safari)
 * [uBlock Origin](https://github.com/el1t/uBlock-Safari/releases/download/1.14.14/uBlock0.safariextz)
+* [Tampermonkey](http://tampermonkey.net/?browser=safari)
 
 # Instructions
 
 **Important:** Disable any other adblocker you may have. Use **_only_** uBlock Origin for ad blocking.
 
-## Tampermonkey (Chrome / Firefox / Safari) 
+## Step 1.
+### uBlock Origin
+
+1. Install uBlock Origin from above.
+
+2. Add the following to your filters:
+
+`avgle.com###player_3x2_container`
+
+`@@||avgle.com/avideos.php`
+
+## Step 2.
+### Tampermonkey (Chrome / Firefox / Safari) 
 
 1. Install Tampermonkey from above.
 
@@ -30,7 +42,7 @@ This script is patched regularly until avgle gets it. Please share.
 
 3. Click 'Install' and enjoy!
 
-## Violentmonkey (Chrome / Firefox)
+### Violentmonkey (Chrome / Firefox)
 
 1. Install Violentmonkey from above. 
 

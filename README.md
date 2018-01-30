@@ -34,7 +34,7 @@ avgle.com###player_3x2_container
 @@||avgle.com/avideos.php
 ```
 
-![Screenshot](https://i.imgur.com/SfQCqJG.png)
+![Screenshot](https://i.imgur.com/Bj2UXSE.png)
 
 3. Click 'Apply changes'
 

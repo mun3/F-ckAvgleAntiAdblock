@@ -10,7 +10,7 @@ This script is patched regularly until avgle gets it. Please share.
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) _(Recommended!)_ or [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 
-### Firefox
+### Firefox / Firefox Android
 * [uBlock Origin](https://addons.mozilla.org/addon/ublock-origin/)
 * [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) _(Recommended!)_ or [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
 
@@ -39,7 +39,7 @@ avgle.com###player_3x2_container
 3. Click 'Apply changes'
 
 ## Step 2/2:
-### Tampermonkey (Chrome / Firefox / Safari) 
+### Tampermonkey (Chrome / Firefox / Firefox Android / Safari) 
 
 1. Install Tampermonkey from above.
 

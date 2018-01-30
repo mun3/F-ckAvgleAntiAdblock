@@ -29,9 +29,10 @@ This script is patched regularly until avgle gets it. Please share.
 
 2. Add the following to your filters:
 
-`avgle.com###player_3x2_container`
-
-`@@||avgle.com/avideos.php`
+```
+avgle.com###player_3x2_container
+@@||avgle.com/avideos.php
+```
 
 ![Screenshot](https://i.imgur.com/SbQY7IY.png)
 

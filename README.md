@@ -22,7 +22,7 @@ This script is patched regularly until avgle gets it. Please share.
 
 **Important:** Disable any other adblocker you may have. Use **_only_** uBlock Origin for ad blocking.
 
-## Step 1.
+## Step 1/2:
 ### uBlock Origin
 
 1. Install uBlock Origin from above.
@@ -33,7 +33,11 @@ This script is patched regularly until avgle gets it. Please share.
 
 `@@||avgle.com/avideos.php`
 
-## Step 2.
+![Screenshot](https://i.imgur.com/SbQY7IY.png)
+
+3. Click 'Apply changes'
+
+## Step 2/2:
 ### Tampermonkey (Chrome / Firefox / Safari) 
 
 1. Install Tampermonkey from above.

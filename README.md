@@ -33,6 +33,10 @@ This script is patched regularly until avgle gets it. Please share.
 
 `@@||avgle.com/avideos.php`
 
+![Screenshot](https://i.imgur.com/KhprLvY.png)
+
+3. Click 'Apply changes'
+
 ## Step 2/2:
 ### Tampermonkey (Chrome / Firefox / Safari) 
 

@@ -33,7 +33,7 @@ This script is patched regularly until avgle gets it. Please share.
 
 `@@||avgle.com/avideos.php`
 
-![Screenshot](https://i.imgur.com/KhprLvY.png)
+![Screenshot](https://i.imgur.com/SbQY7IY.png)
 
 3. Click 'Apply changes'
 

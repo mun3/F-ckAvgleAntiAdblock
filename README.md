@@ -18,7 +18,7 @@ This script is patched regularly until avgle gets it. Please share.
 * [uBlock Origin](https://github.com/el1t/uBlock-Safari/releases/download/1.14.14/uBlock0.safariextz)
 * [Tampermonkey](http://tampermonkey.net/?browser=safari)
 
-# Instructions | 指示
+# Instructions | 説明
 
 **Important:** Disable any other adblocker you may have. Use **_only_** uBlock Origin for _ad blocking_. You'll still need Tampermonkey (see step 2).
 

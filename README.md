@@ -54,7 +54,7 @@ Note: On Firefox Android, you instead need to go to `Dashboard` | `Utilities` | 
 
 ### Violentmonkey (Chrome / Firefox)
 
-1. Install Violentmonkey from above | _Tampermonkey をインストールしてください。リンクは「必要なソフトウェア」を参照してください_
+1. Install Violentmonkey from "Requirements" | Violentmonkey をインストールしてください。リンクは「必要なソフトウェア」を参照してください_
 
 2. Click https://github.com/mun3/F-ckAvgleAntiAdblock/raw/master/fu_antiadblock.user.js
 

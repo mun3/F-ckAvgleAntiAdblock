@@ -27,7 +27,7 @@ _uBlock Origin以外の広告ブロックアドオンをすべて無効にして
 ## Step 1/2:
 ### uBlock Origin
 
-1. Install uBlock Origin from above | _uBlock Origin をインストールしてください。リンクは「必要なソフトウェア」を参照してください_
+1. Install uBlock Origin from "Requirements" | _uBlock Origin をインストールしてください。リンクは「必要なソフトウェア」を参照してください_
 
 2. Add the following to your filters: | _ィルタに下記のルールを追加してください:_
 
@@ -44,7 +44,7 @@ avgle.com###player_3x2_container
 ## Step 2/2:
 ### Tampermonkey (Chrome / Firefox / Firefox Android / Safari) 
 
-1. Install Tampermonkey from above | _Tampermonkey をインストールしてください。リンクは「必要なソフトウェア」を参照してください_
+1. Install Tampermonkey from "Requirements" | _Tampermonkey をインストールしてください。リンクは「必要なソフトウェア」を参照してください_
 
 2. Click https://github.com/mun3/F-ckAvgleAntiAdblock/raw/master/fu_antiadblock.user.js
 

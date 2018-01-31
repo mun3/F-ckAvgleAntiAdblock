@@ -5,7 +5,7 @@ This script is patched regularly until avgle gets it. Please share.
 
 **PLEASE READ BELOW FOR UPDATES**
 
-# Requirements 必要なソフトウェア
+# Requirements | 必要なソフトウェア
 ### Chrome
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) _(Recommended!)_ or [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
@@ -18,18 +18,18 @@ This script is patched regularly until avgle gets it. Please share.
 * [uBlock Origin](https://github.com/el1t/uBlock-Safari/releases/download/1.14.14/uBlock0.safariextz)
 * [Tampermonkey](http://tampermonkey.net/?browser=safari)
 
-# Instructions 指示
+# Instructions | 指示
 
 **Important:** Disable any other adblocker you may have. Use **_only_** uBlock Origin for _ad blocking_. You'll still need Tampermonkey (see below).
 
-uBlock Origin以外の広告ブロックアドオンをすべて無効にしてください。Violentmonkey をインストールしてください（インストール手順は (2) を参照してください)
+_uBlock Origin以外の広告ブロックアドオンをすべて無効にしてください。Tampermonkey をインストールしてください（インストール手順は (2) を参照してください)_
 
 ## Step 1/2:
 ### uBlock Origin
 
-1. Install uBlock Origin from above.
+1. Install uBlock Origin from above | _uBlock Origin をインストールしてください。リンクは「必要なソフトウェア」を参照してください_
 
-2. Add the following to your filters:
+2. Add the following to your filters: | _ィルタに下記のルールを追加してください:_
 
 ```
 avgle.com###player_3x2_container
@@ -38,23 +38,24 @@ avgle.com###player_3x2_container
 
 ![Screenshot](https://i.imgur.com/Bj2UXSE.png)
 
-3. Click 'Apply changes'
+3. Click 'Apply changes' | _[Apply changes]を押してください_
+
 
 ## Step 2/2:
 ### Tampermonkey (Chrome / Firefox / Firefox Android / Safari) 
 
-1. Install Tampermonkey from above.
+1. Install Tampermonkey from above | _Tampermonkey をインストールしてください。リンクは「必要なソフトウェア」を参照してください_
 
 2. Click https://github.com/mun3/F-ckAvgleAntiAdblock/raw/master/fu_antiadblock.user.js
 
-3. Click 'Install' and enjoy!
+3. Click 'Install' and enjoy! | _[Install] を押してください_
 
 Note: On Firefox Android, you instead need to go to `Dashboard` | `Utilities` | `URL` | `Import`.
 
 ### Violentmonkey (Chrome / Firefox)
 
-1. Install Violentmonkey from above. 
+1. Install Violentmonkey from above | _Tampermonkey をインストールしてください。リンクは「必要なソフトウェア」を参照してください_
 
 2. Click https://github.com/mun3/F-ckAvgleAntiAdblock/raw/master/fu_antiadblock.user.js
 
-3. Click 'Confirm installation' and enjoy!
+3. Click 'Confirm installation' and enjoy! | _[Install] を押してください_

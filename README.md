@@ -50,7 +50,7 @@ avgle.com###player_3x2_container
 
 3. Click 'Install' and enjoy! | _[Install] を押してください_
 
-Note: On Firefox Android, you instead need to go to `Dashboard` | `Utilities` | `URL` | `Import`.
+Note: On Firefox Android, you may instead need to go to `Dashboard` | `Utilities` | `URL` | `Import`.
 
 ### Violentmonkey (Chrome / Firefox)
 

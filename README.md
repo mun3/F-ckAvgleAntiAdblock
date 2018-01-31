@@ -20,7 +20,7 @@ This script is patched regularly until avgle gets it. Please share.
 
 # Instructions
 
-**Important:** Disable any other adblocker you may have. Use **_only_** uBlock Origin for ad blocking.
+**Important:** Disable any other adblocker you may have. Use **_only_** uBlock Origin for _ad blocking_. You'll still need Tampermonkey (see below).
 
 ## Step 1/2:
 ### uBlock Origin

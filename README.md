@@ -5,7 +5,7 @@ This script is patched regularly until avgle gets it. Please share.
 
 **PLEASE READ BELOW FOR UPDATES**
 
-# Requirements
+# Requirements 必要なソフトウェア
 ### Chrome
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) _(Recommended!)_ or [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
@@ -18,9 +18,11 @@ This script is patched regularly until avgle gets it. Please share.
 * [uBlock Origin](https://github.com/el1t/uBlock-Safari/releases/download/1.14.14/uBlock0.safariextz)
 * [Tampermonkey](http://tampermonkey.net/?browser=safari)
 
-# Instructions
+# Instructions 指示
 
 **Important:** Disable any other adblocker you may have. Use **_only_** uBlock Origin for _ad blocking_. You'll still need Tampermonkey (see below).
+
+uBlock Origin以外の広告ブロックアドオンをすべて無効にしてください。Violentmonkey をインストールしてください（インストール手順は (2) を参照してください)
 
 ## Step 1/2:
 ### uBlock Origin

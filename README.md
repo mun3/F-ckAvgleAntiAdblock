@@ -40,6 +40,7 @@ avgle.com###player_3x2_container
 
 3. Click 'Apply changes' | _[Apply changes]を押してください_
 
+Note: Do not change '3rd-party filters'.
 
 ## Step 2/2:
 ### Tampermonkey (Chrome / Firefox / Firefox Android / Safari) 

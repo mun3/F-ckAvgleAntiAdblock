@@ -50,7 +50,7 @@ avgle.com###player_3x2_container
 
 3. Click 'Install' and enjoy! | _[Install] を押してください_
 
-Note: On Firefox Android, you instead need to go to `Dashboard` | `Utilities` | `URL` | `Import`.
+Note: On Firefox Android, you may instead need to go to `Dashboard` | `Utilities` | `URL` | `Import`.
 
 ### Violentmonkey (Chrome / Firefox)
 
@@ -59,3 +59,10 @@ Note: On Firefox Android, you instead need to go to `Dashboard` | `Utilities` | 
 2. Click https://github.com/mun3/F-ckAvgleAntiAdblock/raw/master/fu_antiadblock.user.js
 
 3. Click 'Confirm installation' and enjoy! | _[Install] を押してください_
+
+## Thanks
+These amazing people have contributed to this project:
+
+* Junta
+* Keita
+* Momonari

@@ -5,8 +5,6 @@ This script is patched when donation target (0.01 Bitcoin) is reached.
 
 1He9w4Qt2MSc5qjucHfBDXQzEAT866pmd4
 
-**PLEASE READ BELOW FOR UPDATES**
-
 # Requirements | 必要なソフトウェア
 ### Chrome
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)

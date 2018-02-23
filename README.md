@@ -1,9 +1,9 @@
 # F-ck Avgle's AntiAdblock
 The intrusive ads on avgle.com (NSFW) are intolerable, especially on low-end devices.
 
-This script is patched regularly until avgle gets it. Please share.
+*Note: I now have a new job so patches will not be made as frequently. Patches will be commited only when donation target (0.02 Bitcoin) is reached.*
 
-**PLEASE READ BELOW FOR UPDATES**
+[1He9w4Qt2MSc5qjucHfBDXQzEAT866pmd4](https://blockchain.info/address/1He9w4Qt2MSc5qjucHfBDXQzEAT866pmd4)
 
 # Requirements | 必要なソフトウェア
 ### Chrome

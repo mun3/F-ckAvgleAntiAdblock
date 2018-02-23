@@ -1,7 +1,7 @@
 # F-ck Avgle's AntiAdblock
 The intrusive ads on avgle.com (NSFW) are intolerable, especially on low-end devices.
 
-Patches will be made until Avgle reverses its decision!
+Patches will be made until Avgle reverses its decision! Please share.
 
 *Note: I now have a new job so patches will not be made as frequently. Patches will be commited only when donation target (0.02 Bitcoin) is reached.*
 

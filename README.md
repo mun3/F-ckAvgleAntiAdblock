@@ -5,6 +5,8 @@ The intrusive ads on avgle.com (NSFW) are intolerable, especially on low-end dev
 
 [1He9w4Qt2MSc5qjucHfBDXQzEAT866pmd4](https://blockchain.info/address/1He9w4Qt2MSc5qjucHfBDXQzEAT866pmd4)
 
+You can also find us on Freenode IRC at #faaa
+
 # Requirements | 必要なソフトウェア
 ### Chrome
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)

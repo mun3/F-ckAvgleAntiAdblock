@@ -1,5 +1,5 @@
 # F-ck Avgle's AntiAdblock
-The intrusive ads on avgle.com (NSFW) are intolerable, especially on low-end devices.
+The intrusive ads on avgle.com (NSFW) are intolerable, especially on low/mid-end devices.
 
 Patches will be made until Avgle reverses its decision! Please share.
 

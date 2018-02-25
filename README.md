@@ -38,6 +38,7 @@ _**重要:** uBlock Origin以外の広告ブロックアドオンをすべて無
 ```
 avgle.com###player_3x2_container
 @@||avgle.com/avideos.php
+avgle.com#@#script:inject(abort-on-property-read.js, ExoDetector)
 ```
 
 ![Screenshot](https://i.imgur.com/Bj2UXSE.png)

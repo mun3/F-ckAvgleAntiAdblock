@@ -41,7 +41,7 @@ avgle.com###player_3x2_container
 avgle.com#@#script:inject(abort-on-property-read.js, ExoDetector)
 ```
 
-![Screenshot](https://i.imgur.com/Bj2UXSE.png)
+![Screenshot](https://i.imgur.com/Jbah0IS.png)
 
 3. Click 'Apply changes' | _[Apply changes]を押してください_
 

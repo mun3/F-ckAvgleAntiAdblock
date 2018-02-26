@@ -16,3 +16,7 @@ This is a template helping you to create an issue which can be processed as quic
 ##### Detailed description
 
 <!-- your description -->
+
+##### uBlockOrigin's "My Filters"
+
+<!-- your description -->

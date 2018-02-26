@@ -19,4 +19,4 @@ This is a template helping you to create an issue which can be processed as quic
 
 ##### uBlockOrigin's "My Filters"
 
-<!-- your description -->
+<!-- your "My filters" -->

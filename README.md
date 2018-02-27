@@ -1,7 +1,7 @@
 # F-ck Avgle's AntiAdblock
 The intrusive ads on avgle.com (NSFW) are intolerable, especially on low/mid-end devices. This script blocks ads and exposes the m3u8 links of videos. Tip: the 'Download' button! :)
 
-Patches will be made until Avgle reverses its decision! Please share.
+Patches will be made until Avgle reverses its decision. Please share and let our voices be heard.
 
 #### Note: Effort in releasing patches will be gradually reduced due to work commitments. From now on, patches will be released only when donation target (0.02 Bitcoin) is reached: ####
 

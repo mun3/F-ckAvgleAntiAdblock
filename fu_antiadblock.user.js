@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         F-ck Avgle's Anti-Adblock
-// @version      0.11.31
+// @version      0.11.32
 // @author       mun
-// @include      *://*.avgle.com/*
-// @include      *://avgle.com/*
+// @include      *://*.avgle.com/video/*
+// @include      *://avgle.com/video/*
 // @grant        none
 // @namespace    https://github.com/mun3/F-ckAvgleAntiAdblock
 // @description Defeat the anti-adblock mechanisms on avgle.com (NSFW). Works with uBlock Origin.

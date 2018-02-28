@@ -1,7 +1,7 @@
 # F-ck Avgle's AntiAdblock
-The intrusive ads on avgle.com (NSFW) are intolerable, especially on low/mid-end devices. The script provides 2 core features:
-* Blocks ads on avgle.com
-* Exposes the direct links of videos. Tip: the 'Download' button! :)
+The intrusive ads on avgle.com (NSFW) are intolerable, especially on low/mid-end devices. The script provides 2 key features:
+* Ad-blocking on avgle.com
+* Exposure of direct links to videos. Tip: the 'Download' button! :)
 
 Patches will be made until Avgle reverses its decision. Please share and let our voices be heard.
 

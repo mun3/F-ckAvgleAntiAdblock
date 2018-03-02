@@ -5,7 +5,7 @@ The intrusive ads on avgle.com (NSFW) are intolerable, especially on low/mid-end
 
 Patches will be made until Avgle reverses its decision. Please share and let our voices be heard.
 
-#### Note: Maintenance effort will be gradually reduced due to work commitments. From now on, patches will be released only when donation target (0.02 Bitcoin) is reached: ####
+#### Note: Maintenance effort will be gradually reduced due to work commitments. From now on, patches will be released once donation goal (0.02 Bitcoin) is reached: ####
 
 [1He9w4Qt2MSc5qjucHfBDXQzEAT866pmd4](https://blockchain.info/address/1He9w4Qt2MSc5qjucHfBDXQzEAT866pmd4)
 
